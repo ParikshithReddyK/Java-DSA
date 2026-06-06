@@ -1,10 +1,15 @@
-//Checking whether the given number is Even or Odd
+/*
+Problem: Check Whether a Number is Even or Odd
+Difficulty: Easy
+Time Complexity: O(1)
+Space Complexity: O(1)
+*/
 
-package com.practice;
+package com.practice.basics;
 
 import java.util.Scanner;
 
-public class Demo {
+public class EvenOdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
